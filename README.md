@@ -1,0 +1,1 @@
+MyChat is a robust group video calling application designed to facilitate seamless real-time communication. Built with a Django backend and powered by the Agora Web SDK, MyChat enables users to create and join video chat rooms, supporting multiple participants with high-quality audio and video.
