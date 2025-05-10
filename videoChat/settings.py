@@ -25,9 +25,7 @@ SECRET_KEY = 'django-insecure-_l3weequ+lwy24ral59($h#x77om$ac5xg(v%u(7_e&5of2ban
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',
-                'localhost',
-                'videochat-production-0bb6.up.railway.app']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
